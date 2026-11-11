@@ -84,7 +84,7 @@ window.ANTENA_CONTENT = {
     "text_003": "Partnership",
     "text_004": "Become a partner ↗",
     "text_005": "A creative residency<br>in José Ignacio, Uruguay<br>Summer 2026 / 27",
-    "text_006": "STUDIO RESIDENCY",
+    "text_006": "SUMMER RESIDENCY",
     "text_007": "One month. Five openings.<br>A space to create and connect.",
     "text_008": "01 / The idea",
     "text_009": "Five musical gatherings.<br><em>A creative space that opens its doors.</em>",
